@@ -5,3 +5,4 @@ This repository include all the python coding problems in the cousre "Programmin
 2.  [Reverse of a integer](https://github.com/basilkjose/NPTEL--Python-data-structure/blob/main/reverse%20of%20a%20number.py)
 3.  [Bracket matching](https://github.com/basilkjose/NPTEL--Python-data-structure/blob/main/bracket%20matching.py)
 4.  [Sum of prime numbers in a list](https://github.com/basilkjose/NPTEL--Python-data-structure/blob/main/sum%20of%20sub%20prime.py)
+5. [Frequency list pair](https://github.com/basilkjose/NPTEL--Python-data-structure/blob/main/frequency%20list.py)
