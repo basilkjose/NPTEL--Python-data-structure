@@ -6,5 +6,5 @@ This repository include all the python coding problems in the cousre "Programmin
 3.  [Bracket matching](https://github.com/basilkjose/NPTEL--Python-data-structure/blob/main/bracket%20matching.py)
 4.  [Sum of prime numbers in a list](https://github.com/basilkjose/NPTEL--Python-data-structure/blob/main/sum%20of%20sub%20prime.py)
 5.  [Frequency list pair](https://github.com/basilkjose/NPTEL--Python-data-structure/blob/main/frequency%20list.py)
-6.  [Strictly icreasing](https://github.com/basilkjose/NPTEL--Python-data-structure/blob/main/expanding.py)
+6.  [Strictly increasing](https://github.com/basilkjose/NPTEL--Python-data-structure/blob/main/expanding.py)
 7.  [Alternating](https://github.com/basilkjose/NPTEL--Python-data-structure/blob/main/alternating.py)
