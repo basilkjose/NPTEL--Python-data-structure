@@ -8,3 +8,4 @@ This repository include all the python coding problems in the cousre "Programmin
 5.  [Frequency list pair](https://github.com/basilkjose/NPTEL--Python-data-structure/blob/main/frequency%20list.py)
 6.  [Strictly increasing](https://github.com/basilkjose/NPTEL--Python-data-structure/blob/main/expanding.py)
 7.  [Alternating](https://github.com/basilkjose/NPTEL--Python-data-structure/blob/main/alternating.py)
+8. [Linear search](https://github.com/basilkjose/NPTEL--Python-data-structure/blob/main/linear%20search.py)
