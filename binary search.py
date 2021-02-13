@@ -29,7 +29,7 @@ else:
 
 #________________________________________________________________________________________    
 
-# 2. Recursive Method
+# 2. Iterative Method
 
 def binary_search_iterative(seq, ele):
     left = 0
