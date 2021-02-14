@@ -10,3 +10,5 @@ This repository include all the python coding problems in the cousre "Programmin
 7.  [Alternating](https://github.com/basilkjose/NPTEL--Python-data-structure/blob/main/alternating.py)
 8.  [Linear search](https://github.com/basilkjose/NPTEL--Python-data-structure/blob/main/linear%20search.py)
 9.  [Binary search](https://github.com/basilkjose/NPTEL--Python-data-structure/blob/main/binary%20search.py)
+10. [Insertion sort](https://github.com/basilkjose/NPTEL--Python-data-structure/blob/main/insertion%20sort.py)
+11. [Selection sort](https://github.com/basilkjose/NPTEL--Python-data-structure/blob/main/selection%20sort.py)
