@@ -14,3 +14,4 @@ This repository include all the python coding problems in the cousre "Programmin
 11. [Selection sort](https://github.com/basilkjose/NPTEL--Python-data-structure/blob/main/selection%20sort.py)
 12. [Merge sort](https://github.com/basilkjose/NPTEL--Python-data-structure/blob/main/merge%20sort.py)
 13. [Quick sort](https://github.com/basilkjose/NPTEL--Python-data-structure/blob/main/QUICKSORT.py)
+14. [Two sum](https://github.com/basilkjose/Python-coding/blob/main/2sum.py)
